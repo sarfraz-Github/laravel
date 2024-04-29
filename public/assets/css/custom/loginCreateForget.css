@@ -1,0 +1,26 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+    background-image: url('../../img/log_in.png');
+    background-size: cover;
+}
+
+.login_links a{
+    text-decoration: none;
+}
+
+.login_logo{
+    font-size: 50px;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'DM Serif Text', serif;
+}
+
+.form-floating label {
+    color: #999999;
+}
+
+.invalid-feedback{
+    display: block;
+}
